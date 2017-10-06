@@ -1,0 +1,38 @@
+/*  para centrar imagen*/
+body{
+  text-align: center;
+}
+.primer_cuadro_de_color{
+  background-color:  #FA5882;
+  padding-bottom:20px;
+  ;
+}
+h1{
+  color: #F4FA58
+}
+h3{
+  color: #08088A
+}
+h1{
+  font-family: 'Gloria Hallelujah';
+}
+h3{
+  font-family: 'Shadows Into Light';
+}
+p{
+font-family:  'Courgette';
+}
+/*img{
+  width: 400px;
+  heigth:400px;
+}*/
+.segundafoto{
+  width: 400px;
+  heigth:400px;
+  padding-bottom:60px; 
+}
+.Información_adicional2{
+  border-top: 1px solid black;
+    background-color:  #FA5882;
+    padding-bottom:20px;
+}
